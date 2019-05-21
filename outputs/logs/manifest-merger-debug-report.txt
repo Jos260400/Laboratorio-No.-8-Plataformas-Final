@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.databinding:adapters:3.3.2] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\adapters-3.3.2.aar\d05fba75a9bd9814e420b8394abe0e71\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.3.2] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\library-3.3.2.aar\cbf837476fa0d56c584b7b91ec9678ed\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-1.0.0.aar\1fb70466cca413c87609189e87886ca8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-ui-1.0.0.aar\e08bff657079977b46ae7b793f62f54b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\5655db0db99f7c61dd5d83d7384b312a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e4b7dd4268b6e67a57d80622cdd0520d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e14e5e3e5077692a59e04ea1678af219\AndroidManifest.xml:2:1-11:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:17:1-56:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\de503e1a6972468862e8ce93be98c332\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\de60d34a9620156e7e8adff89f5ecad4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\cd6b137dd4e4569e89d02eb9917454f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-1.0.0.aar\1a6acef7d21b34021c2a51650e0b289e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0.aar\a8523895e1b73265ae5fd86cddd02945\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\798c34cb8fe5bde96b96adc9412d7b62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9f8c0b77a4d1821b7e892cd6c2915cc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\989a838ac9a7c4912b1aa80bd8fdf731\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-1.0.0.aar\b8e0fe0522eb0297facfcf02ec044d1e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0.aar\a1ce507cdc9a59b5973d4bd3b3a74d94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\89849a9cef90a705a687ff3009f8bd1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\01c39d4d97dc257e5675718999ed3bbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\853748871f77237b50c26e058dc360a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2347380f83c4599856210289c095751c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\df9c2c8436271d6a04500388062f54c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3f07f15fd6ac260d2ec144d1d419dd93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\aa5d1b5b99355a035743ce3e52bd563f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2c52add1a334415d916313c2433d7407\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d07ae8f802c28d4aa3a991218d6c61e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\57ac91749577c34e58d55696d9da463e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\edcd0d91981a49fbf8df1bd8f0e1b38a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65cd571999a86af43dd49b869a6c890d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-1.0.0.aar\3dff16db288876ab3b68461cf33bc72b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0.aar\15915bcbd1e63f3120485fdf4b37230f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6af14279d94a5bc61cedd7323db5346e\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23778262ab3d74a290d769442a1cd9cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\93ff984635e6de471c16e9639fc1b45c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\768678bee617bacce023f8188daadd16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7c99b722deb582632a40eb45f4c56f48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\af6c5fdbfe0af39293aec8a8fc370f5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\548865f902631ebdd4e7f48dcabfaef1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3bdd98fda8dbcc37153ab846d384b621\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bf3a04c472ab92f7683eb148b4070c5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4cbce45137a2f9916c37ba4ae3dfa2f2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\62b6becdff962a0e6bd2dd2faa39c7e2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c9f312d2e0e5efe5fafe17ddb3fc04b8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\5655db0db99f7c61dd5d83d7384b312a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\5655db0db99f7c61dd5d83d7384b312a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e14e5e3e5077692a59e04ea1678af219\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e14e5e3e5077692a59e04ea1678af219\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:46:5-54:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6af14279d94a5bc61cedd7323db5346e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6af14279d94a5bc61cedd7323db5346e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\93ff984635e6de471c16e9639fc1b45c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\93ff984635e6de471c16e9639fc1b45c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6af14279d94a5bc61cedd7323db5346e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.inventario.MainActivity
+ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:15:17-49
+	android:theme
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:16:17-60
+	android:name
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:14:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.3.2] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\adapters-3.3.2.aar\d05fba75a9bd9814e420b8394abe0e71\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.3.2] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\adapters-3.3.2.aar\d05fba75a9bd9814e420b8394abe0e71\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.2] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\library-3.3.2.aar\cbf837476fa0d56c584b7b91ec9678ed\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.2] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\library-3.3.2.aar\cbf837476fa0d56c584b7b91ec9678ed\AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-1.0.0.aar\1fb70466cca413c87609189e87886ca8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-1.0.0.aar\1fb70466cca413c87609189e87886ca8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-ui-1.0.0.aar\e08bff657079977b46ae7b793f62f54b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-ui-1.0.0.aar\e08bff657079977b46ae7b793f62f54b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\5655db0db99f7c61dd5d83d7384b312a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\5655db0db99f7c61dd5d83d7384b312a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e4b7dd4268b6e67a57d80622cdd0520d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e4b7dd4268b6e67a57d80622cdd0520d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e14e5e3e5077692a59e04ea1678af219\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e14e5e3e5077692a59e04ea1678af219\AndroidManifest.xml:5:5-7:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\de503e1a6972468862e8ce93be98c332\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\de503e1a6972468862e8ce93be98c332\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\de60d34a9620156e7e8adff89f5ecad4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\de60d34a9620156e7e8adff89f5ecad4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\cd6b137dd4e4569e89d02eb9917454f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\cd6b137dd4e4569e89d02eb9917454f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-1.0.0.aar\1a6acef7d21b34021c2a51650e0b289e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-1.0.0.aar\1a6acef7d21b34021c2a51650e0b289e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0.aar\a8523895e1b73265ae5fd86cddd02945\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0.aar\a8523895e1b73265ae5fd86cddd02945\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\798c34cb8fe5bde96b96adc9412d7b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\798c34cb8fe5bde96b96adc9412d7b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9f8c0b77a4d1821b7e892cd6c2915cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9f8c0b77a4d1821b7e892cd6c2915cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\989a838ac9a7c4912b1aa80bd8fdf731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\989a838ac9a7c4912b1aa80bd8fdf731\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-1.0.0.aar\b8e0fe0522eb0297facfcf02ec044d1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-1.0.0.aar\b8e0fe0522eb0297facfcf02ec044d1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0.aar\a1ce507cdc9a59b5973d4bd3b3a74d94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0.aar\a1ce507cdc9a59b5973d4bd3b3a74d94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\89849a9cef90a705a687ff3009f8bd1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\89849a9cef90a705a687ff3009f8bd1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\01c39d4d97dc257e5675718999ed3bbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\01c39d4d97dc257e5675718999ed3bbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\853748871f77237b50c26e058dc360a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\853748871f77237b50c26e058dc360a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2347380f83c4599856210289c095751c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2347380f83c4599856210289c095751c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\df9c2c8436271d6a04500388062f54c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\df9c2c8436271d6a04500388062f54c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3f07f15fd6ac260d2ec144d1d419dd93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3f07f15fd6ac260d2ec144d1d419dd93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\aa5d1b5b99355a035743ce3e52bd563f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\aa5d1b5b99355a035743ce3e52bd563f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2c52add1a334415d916313c2433d7407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2c52add1a334415d916313c2433d7407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d07ae8f802c28d4aa3a991218d6c61e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d07ae8f802c28d4aa3a991218d6c61e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\57ac91749577c34e58d55696d9da463e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\57ac91749577c34e58d55696d9da463e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\edcd0d91981a49fbf8df1bd8f0e1b38a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\edcd0d91981a49fbf8df1bd8f0e1b38a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65cd571999a86af43dd49b869a6c890d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65cd571999a86af43dd49b869a6c890d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-1.0.0.aar\3dff16db288876ab3b68461cf33bc72b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-1.0.0.aar\3dff16db288876ab3b68461cf33bc72b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0.aar\15915bcbd1e63f3120485fdf4b37230f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0.aar\15915bcbd1e63f3120485fdf4b37230f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6af14279d94a5bc61cedd7323db5346e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6af14279d94a5bc61cedd7323db5346e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23778262ab3d74a290d769442a1cd9cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23778262ab3d74a290d769442a1cd9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\93ff984635e6de471c16e9639fc1b45c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\93ff984635e6de471c16e9639fc1b45c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\768678bee617bacce023f8188daadd16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\768678bee617bacce023f8188daadd16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7c99b722deb582632a40eb45f4c56f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7c99b722deb582632a40eb45f4c56f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\af6c5fdbfe0af39293aec8a8fc370f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\af6c5fdbfe0af39293aec8a8fc370f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\548865f902631ebdd4e7f48dcabfaef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\548865f902631ebdd4e7f48dcabfaef1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3bdd98fda8dbcc37153ab846d384b621\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3bdd98fda8dbcc37153ab846d384b621\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bf3a04c472ab92f7683eb148b4070c5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bf3a04c472ab92f7683eb148b4070c5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4cbce45137a2f9916c37ba4ae3dfa2f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4cbce45137a2f9916c37ba4ae3dfa2f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\62b6becdff962a0e6bd2dd2faa39c7e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\62b6becdff962a0e6bd2dd2faa39c7e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c9f312d2e0e5efe5fafe17ddb3fc04b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c9f312d2e0e5efe5fafe17ddb3fc04b8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DARKTONE\Desktop\UVG\Tercer Semestre\Plataformas\Laboratorio No. 7\Laboratorio No. 7\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\DARKTONE\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\766c2b80434042d0b1b3e04fd5718892\AndroidManifest.xml:48:13-74
